@@ -7,8 +7,8 @@
 
 <br/>
 
-[![KubeCL](https://img.shields.io/badge/Compute_Language-CubeCL-3c83c2)](https://github.com/Nullvora/kubecl)
-[![Mabor](https://img.shields.io/badge/DL_Framework-Burn-f45b16)](https://github.com/Nullvora/mabor)
+[![KubeCL](https://img.shields.io/badge/Compute_Language-KubeCL-3c83c2)](https://github.com/Nullvora/kubecl)
+[![Mabor](https://img.shields.io/badge/DL_Framework-Mabor-f45b16)](https://github.com/Nullvora/mabor)
 
 
 </div>
